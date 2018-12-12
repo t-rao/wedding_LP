@@ -2,10 +2,13 @@
   .icon {
     display: none; }
   nav {
-    width: 600px;
+    width: 800px;
     margin: 0 auto; }
   nav li {
-    float: left; }
+    float: left;
+    margin-right: 50px; }
+  nav li:last-child {
+    margin-right: 0px; }
   nav li a:link {
     color: black; }
   header .menu {
@@ -35,7 +38,7 @@
     position: relative;
     top: -105px; }
     .act_conte .inner_act_conte {
-      width: 550px;
+      width: 580px;
       margin: 0 auto;
       background-color: white;
       padding: 50px;
@@ -99,7 +102,8 @@
   .four_grid {
     letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP';
-    width: 90%;
+    width: 100%;
+    max-width: 1280px;
     margin: 60px auto 0; }
   @font-face {
     .four_grid {
@@ -131,7 +135,8 @@
           font-size: 16px;
           font-weight: lighter; }
   .rthings {
-    width: 85%;
+    width: 100%;
+    max-width: 800px;
     margin: 0 auto;
     margin-bottom: 60px;
     letter-spacing: 0.5px;
@@ -180,7 +185,8 @@
       margin-top: 20px; }
   .gal_sec {
     display: grid;
-    width: 90%;
+    width: 100%;
+    max-width: 1280px;
     margin: 0 auto;
     margin-bottom: 80px;
     grid-template-columns: 1fr;
@@ -237,17 +243,20 @@
       margin-bottom: 30px; }
     .thank_note .thanks_img {
       width: 100%;
+      max-width: 1300px;
+      margin: 0  auto;
       margin-bottom: 30px; }
       .thank_note .thanks_img img {
         width: 100%; }
     .thank_note .thank_text {
-      width: 80%;
+      width: 100%;
+      max-width: 960px;
       margin: 0 auto;
       font-size: 16px;
       font-weight: lighter;
       line-height: 180%; }
     .thank_note button {
-      width: 60%;
+      width: 400px;
       display: block;
       margin: 60px auto;
       font-size: 18px;
@@ -386,7 +395,7 @@
     position: relative;
     top: -105px; }
     .act_conte .inner_act_conte {
-      width: 550px;
+      width: 580px;
       margin: 0 auto;
       background-color: white;
       padding: 50px;
@@ -450,7 +459,8 @@
   .four_grid {
     letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP';
-    width: 90%;
+    width: 100%;
+    max-width: 960px;
     margin: 60px auto 0; }
   @font-face {
     .four_grid {
@@ -482,7 +492,8 @@
           font-size: 16px;
           font-weight: lighter; }
   .rthings {
-    width: 85%;
+    width: 100%;
+    max-width: 800px;
     margin: 0 auto;
     margin-bottom: 60px;
     letter-spacing: 0.5px;
@@ -531,7 +542,8 @@
       margin-top: 20px; }
   .gal_sec {
     display: grid;
-    width: 90%;
+    width: 100%;
+    max-width: 760px;
     margin: 0 auto;
     margin-bottom: 80px;
     grid-template-columns: 1fr;
@@ -1475,7 +1487,7 @@ header {
 } */
 .header_wrapper {
   width: 100%;
-  max-width: 1080px;
+  max-width: 700px;
   margin: auto;
   /* padding-top: 10px;
   padding-bottom: 10px; */ }
