@@ -33,7 +33,7 @@ $(window).on("scroll", function() {
         $(".header").removeClass("active");
         $(".logo img").attr("src", "images/logo_white_text.png");
         $(".icon a").css("color", "black");
-        $(".nav_mu a").css("color", "White");
+        $(".nav_mu a").css("color", "black");
         // $(".overlay").css("background", "black");
         // $("#closebtn").css("color", "white");
 
