@@ -1522,21 +1522,22 @@
           width: 40px;
           display: block;
           height: 40px;
-          padding-top: 5px;
           text-align: center;
+          vertical-align: middle;
           margin-right: 10px;
           border-radius: 100px;
           float: left;
-          margin-top: -5px; }
+          margin-top: -5px;
+          padding-top: 8px; }
       .faqs .faq_Q h3 + div {
         clear: both; }
         .faqs .faq_Q h3 + div span {
+          padding-top: 8px;
           color: black;
           background-color: white;
           width: 40px;
           display: block;
           height: 40px;
-          padding-top: 5px;
           text-align: center;
           margin-right: 5px;
           border-radius: 100px;
