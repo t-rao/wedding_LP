@@ -88,27 +88,17 @@
         font-size: 26px;
         margin-bottom: 25px; }
       .hands_fa .rigt_content p {
-        letter-spacing: 0.5px;
         font-family: 'Noto Sans CJK JP';
         font-size: 16px;
         letter-spacing: 0.5px;
         line-height: 180%;
         font-weight: lighter;
         margin-bottom: 20px; }
-  @font-face {
-    .hands_fa .rigt_content p {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
   .four_grid {
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP';
     width: 100%;
     max-width: 1280px;
     margin: 60px auto 0; }
-  @font-face {
-    .four_grid {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .four_grid h2 {
       font-size: 26px; }
     .four_grid h2 + p {
@@ -139,23 +129,13 @@
     max-width: 800px;
     margin: 0 auto;
     margin-bottom: 60px;
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP'; }
-  @font-face {
-    .rthings {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .rthings h2 {
-      letter-spacing: 0.5px;
       font-family: 'Noto Sans CJK JP';
       font-size: 26px;
       margin: 0 auto;
       text-align: center;
       margin-bottom: 40px; }
-  @font-face {
-    .rthings h2 {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .rthings .inner_rthings-01 {
       display: grid;
       grid-template-columns: 1fr 1fr;
@@ -190,12 +170,7 @@
     margin: 0 auto;
     margin-bottom: 80px;
     grid-template-columns: 1fr;
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP'; }
-  @font-face {
-    .gal_sec {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .gal_sec h3 {
       font-size: 22px;
       margin-bottom: 10px; }
@@ -228,12 +203,7 @@
       padding-top: 80px; }
   .thank_note {
     width: 100%;
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP'; }
-  @font-face {
-    .thank_note {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .thank_note h2 {
       text-align: center;
       font-size: 26px;
@@ -269,16 +239,11 @@
       color: #b7aa00;
       font-size: 20px; }
   .pro_inf {
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP';
     width: 960px;
     margin: 0 auto;
     margin-bottom: 40px;
     text-align: center; }
-  @font-face {
-    .pro_inf {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .pro_inf .inner_pro_inf h3 {
       font-size: 26px;
       font-weight: bold;
@@ -303,12 +268,7 @@
     display: grid;
     grid-template-columns: 1fr;
     grid-row-gap: 20px;
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP'; }
-  @font-face {
-    .faqs {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .faqs h2 {
       text-align: center;
       margin-bottom: 50px; }
@@ -445,27 +405,17 @@
         font-size: 26px;
         margin-bottom: 25px; }
       .hands_fa .rigt_content p {
-        letter-spacing: 0.5px;
         font-family: 'Noto Sans CJK JP';
         font-size: 16px;
         letter-spacing: 0.5px;
         line-height: 180%;
         font-weight: lighter;
         margin-bottom: 20px; }
-  @font-face {
-    .hands_fa .rigt_content p {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
   .four_grid {
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP';
     width: 100%;
     max-width: 960px;
     margin: 60px auto 0; }
-  @font-face {
-    .four_grid {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .four_grid h2 {
       font-size: 26px; }
     .four_grid h2 + p {
@@ -496,23 +446,13 @@
     max-width: 800px;
     margin: 0 auto;
     margin-bottom: 60px;
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP'; }
-  @font-face {
-    .rthings {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .rthings h2 {
-      letter-spacing: 0.5px;
       font-family: 'Noto Sans CJK JP';
       font-size: 26px;
       margin: 0 auto;
       text-align: center;
       margin-bottom: 40px; }
-  @font-face {
-    .rthings h2 {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .rthings .inner_rthings-01 {
       display: grid;
       grid-template-columns: 1fr 1fr;
@@ -547,12 +487,7 @@
     margin: 0 auto;
     margin-bottom: 80px;
     grid-template-columns: 1fr;
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP'; }
-  @font-face {
-    .gal_sec {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .gal_sec h3 {
       font-size: 22px;
       margin-bottom: 10px; }
@@ -585,12 +520,7 @@
       padding-top: 80px; }
   .thank_note {
     width: 100%;
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP'; }
-  @font-face {
-    .thank_note {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .thank_note h2 {
       text-align: center;
       font-size: 26px;
@@ -623,16 +553,11 @@
       color: #b7aa00;
       font-size: 20px; }
   .pro_inf {
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP';
     width: 960px;
     margin: 0 auto;
     margin-bottom: 40px;
     text-align: center; }
-  @font-face {
-    .pro_inf {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .pro_inf .inner_pro_inf h3 {
       font-size: 26px;
       font-weight: bold;
@@ -657,12 +582,7 @@
     display: grid;
     grid-template-columns: 1fr;
     grid-row-gap: 20px;
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP'; }
-  @font-face {
-    .faqs {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .faqs h2 {
       text-align: center;
       margin-bottom: 50px; }
@@ -798,26 +718,16 @@
         font-size: 26px;
         margin-bottom: 25px; }
       .hands_fa .rigt_content p {
-        letter-spacing: 0.5px;
         font-family: 'Noto Sans CJK JP';
         font-size: 16px;
         letter-spacing: 0.5px;
         line-height: 180%;
         font-weight: lighter;
         margin-bottom: 20px; }
-  @font-face {
-    .hands_fa .rigt_content p {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
   .four_grid {
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP';
     width: 90%;
     margin: 60px auto 0; }
-  @font-face {
-    .four_grid {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .four_grid h2 {
       font-size: 26px; }
     .four_grid h2 + p {
@@ -847,23 +757,13 @@
     width: 85%;
     margin: 0 auto;
     margin-bottom: 60px;
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP'; }
-  @font-face {
-    .rthings {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .rthings h2 {
-      letter-spacing: 0.5px;
       font-family: 'Noto Sans CJK JP';
       font-size: 26px;
       margin: 0 auto;
       text-align: center;
       margin-bottom: 40px; }
-  @font-face {
-    .rthings h2 {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .rthings .inner_rthings-01 {
       display: grid;
       grid-template-columns: 1fr 1fr;
@@ -897,12 +797,7 @@
     margin: 0 auto;
     grid-template-columns: 1fr;
     grid-row-gap: 60px;
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP'; }
-  @font-face {
-    .gal_sec {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .gal_sec h3 {
       font-size: 22px;
       margin-bottom: 10px; }
@@ -941,12 +836,7 @@
       text-align: right; }
   .thank_note {
     width: 100%;
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP'; }
-  @font-face {
-    .thank_note {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .thank_note h2 {
       text-align: center;
       font-size: 26px;
@@ -979,16 +869,11 @@
       color: #b7aa00;
       font-size: 20px; }
   .pro_inf {
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP';
     width: 90%;
     margin: 0 auto;
     margin-bottom: 40px;
     text-align: center; }
-  @font-face {
-    .pro_inf {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .pro_inf .inner_pro_inf h3 {
       font-size: 26px;
       font-weight: bold;
@@ -1013,12 +898,7 @@
     display: grid;
     grid-template-columns: 1fr;
     grid-row-gap: 20px;
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP'; }
-  @font-face {
-    .faqs {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .faqs h2 {
       text-align: center;
       margin-bottom: 50px; }
@@ -1189,25 +1069,15 @@
         font-size: 26px;
         margin-bottom: 25px; }
       .hands_fa .rigt_content p {
-        letter-spacing: 0.5px;
         font-family: 'Noto Sans CJK JP';
         font-size: 16px;
         letter-spacing: 0.5px;
         line-height: 180%;
         font-weight: lighter; }
-  @font-face {
-    .hands_fa .rigt_content p {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
   .four_grid {
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP';
     width: 90%;
     margin: 60px auto 0; }
-  @font-face {
-    .four_grid {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .four_grid h2 {
       font-size: 26px; }
     .four_grid h2 + p {
@@ -1236,23 +1106,13 @@
     width: 85%;
     margin: 0 auto;
     margin-bottom: 60px;
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP'; }
-  @font-face {
-    .rthings {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .rthings h2 {
-      letter-spacing: 0.5px;
       font-family: 'Noto Sans CJK JP';
       font-size: 26px;
       margin: 0 auto;
       text-align: center;
       margin-bottom: 40px; }
-  @font-face {
-    .rthings h2 {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .rthings .inner_rthings-01 {
       display: grid;
       grid-template-columns: 1fr 1fr;
@@ -1285,12 +1145,7 @@
     width: 90%;
     margin: 0 auto;
     grid-template-columns: 1fr;
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP'; }
-  @font-face {
-    .gal_sec {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .gal_sec h3 {
       font-size: 22px;
       margin-bottom: 10px; }
@@ -1330,12 +1185,7 @@
       text-align: right; }
   .thank_note {
     width: 100%;
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP'; }
-  @font-face {
-    .thank_note {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .thank_note h2 {
       text-align: center;
       font-size: 26px;
@@ -1367,16 +1217,11 @@
       letter-spacing: 1px;
       color: #b7aa00; }
   .pro_inf {
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP';
     width: 90%;
     margin: 0 auto;
     margin-bottom: 40px;
     text-align: center; }
-  @font-face {
-    .pro_inf {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .pro_inf .inner_pro_inf h3 {
       font-size: 26px;
       font-weight: bold;
@@ -1401,12 +1246,7 @@
     display: grid;
     grid-template-columns: 1fr;
     grid-row-gap: 20px;
-    letter-spacing: 0.5px;
     font-family: 'Noto Sans CJK JP'; }
-  @font-face {
-    .faqs {
-      font-family: 'Noto Sans CJK JP';
-      src: url("fonts/NotoSansCJKjp-Regular.otf"); } }
     .faqs h2 {
       text-align: center;
       margin-bottom: 50px; }
@@ -1459,6 +1299,14 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box; }
+
+@font-face {
+  font-family: 'Brandon Grotesque';
+  src: url(fonts/Brandon_reg.otf); }
+
+@font-face {
+  font-family: 'Noto Sans CJK JP';
+  src: url("fonts/NotoSansCJKjp-Regular.otf"); }
 
 body {
   background-color: #fafafa; }
