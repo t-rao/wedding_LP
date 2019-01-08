@@ -9,7 +9,7 @@
     margin-right: 50px; }
   nav li:last-child {
     margin-right: 0px; }
-  nav li a:link {
+  nav li a:link, nav li a:visited {
     color: black; }
   header .menu {
     clear: none;
@@ -27,7 +27,7 @@
       margin: 0 auto;
       padding: 20px;
       margin-top: 60px;
-      font-family: 'Brandon Grotesque',"ヒラギノ角ゴ ProN" , sans-serif;
+      font-family: 'Brandon Grotesque';
       color: white;
       background-color: #ffffff80; }
       .main_visual .inner_mv h1 {
@@ -44,14 +44,14 @@
       padding: 50px;
       text-align: center; }
       .act_conte .inner_act_conte h2 {
-        font-family: Noto Sans CJK JP,"ヒラギノ角ゴ ProN" , sans-serif;;
+        font-family: Noto Sans CJK JP;
         font-weight: bold;
         font-size: 22px;
         letter-spacing: 1px;
         line-height: 150%;
         margin-bottom: 20px; }
       .act_conte .inner_act_conte p {
-        font-family: Noto Sans CJK JP,"ヒラギノ角ゴ ProN" , sans-serif;;
+        font-family: Noto Sans CJK JP;
         font-size: 16px;
         font-weight: lighter; }
       .act_conte .inner_act_conte button {
@@ -63,7 +63,7 @@
         padding-right: 10px;
         border: none;
         border-radius: 30px;
-        font-family: Noto Sans CJK JP,"ヒラギノ角ゴ ProN" , sans-serif;;
+        font-family: Noto Sans CJK JP;
         font-size: 16px;
         font-weight: 400;
         color: white;
@@ -84,19 +84,18 @@
       margin: 0 auto; }
       .hands_fa .rigt_content h3 {
         text-align: center;
-        font-family: Noto Sans CJK JP,"ヒラギノ角ゴ ProN" , sans-serif;
+        font-family: Noto Sans CJK JP;
         font-size: 26px;
         margin-bottom: 25px; }
       .hands_fa .rigt_content p {
-        font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif;
+        font-family: 'Noto Sans CJK JP';
         font-size: 16px;
         letter-spacing: 0.5px;
         line-height: 180%;
         font-weight: lighter;
-        margin-bottom: 20px;
-      }
+        margin-bottom: 20px; }
   .four_grid {
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif;
+    font-family: 'Noto Sans CJK JP';
     width: 100%;
     max-width: 1280px;
     margin: 60px auto 0; }
@@ -130,9 +129,9 @@
     max-width: 800px;
     margin: 0 auto;
     margin-bottom: 60px;
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif; }
+    font-family: 'Noto Sans CJK JP'; }
     .rthings h2 {
-      font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif;
+      font-family: 'Noto Sans CJK JP';
       font-size: 26px;
       margin: 0 auto;
       text-align: center;
@@ -171,7 +170,7 @@
     margin: 0 auto;
     margin-bottom: 80px;
     grid-template-columns: 1fr;
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif; }
+    font-family: 'Noto Sans CJK JP'; }
     .gal_sec h3 {
       font-size: 22px;
       margin-bottom: 10px; }
@@ -204,7 +203,7 @@
       padding-top: 80px; }
   .thank_note {
     width: 100%;
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif; }
+    font-family: 'Noto Sans CJK JP'; }
     .thank_note h2 {
       text-align: center;
       font-size: 26px;
@@ -239,8 +238,14 @@
       letter-spacing: 1px;
       color: #b7aa00;
       font-size: 20px; }
+    .thank_note button a:link {
+      color: #b7aa00; }
+    .thank_note button a:visited {
+      color: #b7aa00; }
+    .thank_note a {
+      text-decoration: none; }
   .pro_inf {
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif;
+    font-family: 'Noto Sans CJK JP';
     width: 960px;
     margin: 0 auto;
     margin-bottom: 40px;
@@ -269,7 +274,7 @@
     display: grid;
     grid-template-columns: 1fr;
     grid-row-gap: 20px;
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif; }
+    font-family: 'Noto Sans CJK JP'; }
     .faqs h2 {
       text-align: center;
       margin-bottom: 50px; }
@@ -362,14 +367,14 @@
       padding: 50px;
       text-align: center; }
       .act_conte .inner_act_conte h2 {
-        font-family: Noto Sans CJK JP,"ヒラギノ角ゴ ProN" , sans-serif;;
+        font-family: Noto Sans CJK JP;
         font-weight: bold;
         font-size: 22px;
         letter-spacing: 1px;
         line-height: 150%;
         margin-bottom: 20px; }
       .act_conte .inner_act_conte p {
-        font-family: Noto Sans CJK JP,"ヒラギノ角ゴ ProN" , sans-serif;;
+        font-family: Noto Sans CJK JP;
         font-size: 16px;
         font-weight: lighter; }
       .act_conte .inner_act_conte button {
@@ -381,7 +386,7 @@
         padding-right: 10px;
         border: none;
         border-radius: 30px;
-        font-family: Noto Sans CJK JP,"ヒラギノ角ゴ ProN" , sans-serif;;
+        font-family: Noto Sans CJK JP;
         font-size: 16px;
         font-weight: 400;
         color: white;
@@ -402,18 +407,18 @@
       margin: 0 auto; }
       .hands_fa .rigt_content h3 {
         text-align: center;
-        font-family: Noto Sans CJK JP,"ヒラギノ角ゴ ProN" , sans-serif;;
+        font-family: Noto Sans CJK JP;
         font-size: 26px;
         margin-bottom: 25px; }
       .hands_fa .rigt_content p {
-        font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif;
+        font-family: 'Noto Sans CJK JP';
         font-size: 16px;
         letter-spacing: 0.5px;
         line-height: 180%;
         font-weight: lighter;
         margin-bottom: 20px; }
   .four_grid {
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif;
+    font-family: 'Noto Sans CJK JP';
     width: 100%;
     max-width: 960px;
     margin: 60px auto 0; }
@@ -447,9 +452,9 @@
     max-width: 800px;
     margin: 0 auto;
     margin-bottom: 60px;
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif; }
+    font-family: 'Noto Sans CJK JP'; }
     .rthings h2 {
-      font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif;
+      font-family: 'Noto Sans CJK JP';
       font-size: 26px;
       margin: 0 auto;
       text-align: center;
@@ -488,7 +493,7 @@
     margin: 0 auto;
     margin-bottom: 80px;
     grid-template-columns: 1fr;
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif; }
+    font-family: 'Noto Sans CJK JP'; }
     .gal_sec h3 {
       font-size: 22px;
       margin-bottom: 10px; }
@@ -521,7 +526,7 @@
       padding-top: 80px; }
   .thank_note {
     width: 100%;
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif; }
+    font-family: 'Noto Sans CJK JP'; }
     .thank_note h2 {
       text-align: center;
       font-size: 26px;
@@ -554,7 +559,7 @@
       color: #b7aa00;
       font-size: 20px; }
   .pro_inf {
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif;
+    font-family: 'Noto Sans CJK JP';
     width: 960px;
     margin: 0 auto;
     margin-bottom: 40px;
@@ -583,7 +588,7 @@
     display: grid;
     grid-template-columns: 1fr;
     grid-row-gap: 20px;
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif; }
+    font-family: 'Noto Sans CJK JP'; }
     .faqs h2 {
       text-align: center;
       margin-bottom: 50px; }
@@ -676,14 +681,14 @@
       padding: 50px;
       text-align: center; }
       .act_conte .inner_act_conte h2 {
-        font-family: Noto Sans CJK JP,"ヒラギノ角ゴ ProN" , sans-serif;;
+        font-family: Noto Sans CJK JP;
         font-weight: bold;
         font-size: 22px;
         letter-spacing: 1px;
         line-height: 150%;
         margin-bottom: 20px; }
       .act_conte .inner_act_conte p {
-        font-family: Noto Sans CJK JP,"ヒラギノ角ゴ ProN" , sans-serif;;
+        font-family: Noto Sans CJK JP;
         font-size: 16px;
         font-weight: lighter; }
       .act_conte .inner_act_conte button {
@@ -695,7 +700,7 @@
         padding-right: 10px;
         border: none;
         border-radius: 30px;
-        font-family: Noto Sans CJK JP,"ヒラギノ角ゴ ProN" , sans-serif;;
+        font-family: Noto Sans CJK JP;
         font-size: 16px;
         font-weight: 400;
         color: white;
@@ -715,18 +720,18 @@
       margin: 0 auto; }
       .hands_fa .rigt_content h3 {
         text-align: center;
-        font-family: Noto Sans CJK JP,"ヒラギノ角ゴ ProN" , sans-serif;;
+        font-family: Noto Sans CJK JP;
         font-size: 26px;
         margin-bottom: 25px; }
       .hands_fa .rigt_content p {
-        font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif;
+        font-family: 'Noto Sans CJK JP';
         font-size: 16px;
         letter-spacing: 0.5px;
         line-height: 180%;
         font-weight: lighter;
         margin-bottom: 20px; }
   .four_grid {
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif;
+    font-family: 'Noto Sans CJK JP';
     width: 90%;
     margin: 60px auto 0; }
     .four_grid h2 {
@@ -758,9 +763,9 @@
     width: 85%;
     margin: 0 auto;
     margin-bottom: 60px;
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif; }
+    font-family: 'Noto Sans CJK JP'; }
     .rthings h2 {
-      font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif;
+      font-family: 'Noto Sans CJK JP';
       font-size: 26px;
       margin: 0 auto;
       text-align: center;
@@ -798,7 +803,7 @@
     margin: 0 auto;
     grid-template-columns: 1fr;
     grid-row-gap: 60px;
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif; }
+    font-family: 'Noto Sans CJK JP'; }
     .gal_sec h3 {
       font-size: 22px;
       margin-bottom: 10px; }
@@ -837,7 +842,7 @@
       text-align: right; }
   .thank_note {
     width: 100%;
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif; }
+    font-family: 'Noto Sans CJK JP'; }
     .thank_note h2 {
       text-align: center;
       font-size: 26px;
@@ -870,7 +875,7 @@
       color: #b7aa00;
       font-size: 20px; }
   .pro_inf {
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif;
+    font-family: 'Noto Sans CJK JP';
     width: 90%;
     margin: 0 auto;
     margin-bottom: 40px;
@@ -899,7 +904,7 @@
     display: grid;
     grid-template-columns: 1fr;
     grid-row-gap: 20px;
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif; }
+    font-family: 'Noto Sans CJK JP'; }
     .faqs h2 {
       text-align: center;
       margin-bottom: 50px; }
@@ -1027,14 +1032,14 @@
       padding: 20px;
       text-align: center; }
       .act_conte .inner_act_conte h2 {
-        font-family: Noto Sans CJK JP,"ヒラギノ角ゴ ProN" , sans-serif;;
+        font-family: Noto Sans CJK JP;
         font-weight: bold;
         font-size: 22px;
         letter-spacing: 1px;
         line-height: 150%;
         margin-bottom: 20px; }
       .act_conte .inner_act_conte p {
-        font-family: Noto Sans CJK JP,"ヒラギノ角ゴ ProN" , sans-serif;;
+        font-family: Noto Sans CJK JP;
         font-size: 16px;
         font-weight: lighter; }
       .act_conte .inner_act_conte button {
@@ -1046,7 +1051,7 @@
         padding-right: 10px;
         border: none;
         border-radius: 30px;
-        font-family: Noto Sans CJK JP,"ヒラギノ角ゴ ProN" , sans-serif;;
+        font-family: Noto Sans CJK JP;
         font-size: 16px;
         font-weight: 400;
         color: white;
@@ -1066,17 +1071,17 @@
       margin: 0 auto; }
       .hands_fa .rigt_content h3 {
         text-align: center;
-        font-family: Noto Sans CJK JP,"ヒラギノ角ゴ ProN" , sans-serif;;
+        font-family: Noto Sans CJK JP;
         font-size: 26px;
         margin-bottom: 25px; }
       .hands_fa .rigt_content p {
-        font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif;
+        font-family: 'Noto Sans CJK JP';
         font-size: 16px;
         letter-spacing: 0.5px;
         line-height: 180%;
         font-weight: lighter; }
   .four_grid {
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif;
+    font-family: 'Noto Sans CJK JP';
     width: 90%;
     margin: 60px auto 0; }
     .four_grid h2 {
@@ -1107,9 +1112,9 @@
     width: 85%;
     margin: 0 auto;
     margin-bottom: 60px;
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif; }
+    font-family: 'Noto Sans CJK JP'; }
     .rthings h2 {
-      font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif;
+      font-family: 'Noto Sans CJK JP';
       font-size: 26px;
       margin: 0 auto;
       text-align: center;
@@ -1146,7 +1151,7 @@
     width: 90%;
     margin: 0 auto;
     grid-template-columns: 1fr;
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif; }
+    font-family: 'Noto Sans CJK JP'; }
     .gal_sec h3 {
       font-size: 22px;
       margin-bottom: 10px; }
@@ -1186,7 +1191,7 @@
       text-align: right; }
   .thank_note {
     width: 100%;
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif; }
+    font-family: 'Noto Sans CJK JP'; }
     .thank_note h2 {
       text-align: center;
       font-size: 26px;
@@ -1218,7 +1223,7 @@
       letter-spacing: 1px;
       color: #b7aa00; }
   .pro_inf {
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif;
+    font-family: 'Noto Sans CJK JP';
     width: 90%;
     margin: 0 auto;
     margin-bottom: 40px;
@@ -1247,7 +1252,7 @@
     display: grid;
     grid-template-columns: 1fr;
     grid-row-gap: 20px;
-    font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif; }
+    font-family: 'Noto Sans CJK JP'; }
     .faqs h2 {
       text-align: center;
       margin-bottom: 50px; }
@@ -1306,7 +1311,7 @@
   src: url(fonts/Brandon_reg.otf); }
 
 @font-face {
-  font-family: 'Noto Sans CJK JP',"ヒラギノ角ゴ ProN" , sans-serif;
+  font-family: 'Noto Sans CJK JP';
   src: url("fonts/NotoSansCJKjp-Regular.otf"); }
 
 body {
